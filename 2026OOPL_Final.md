@@ -60,38 +60,27 @@
 
 #### 1. 主選單畫面
 
-<!-- ![主選單畫面](./image/main_menu.png) -->
-<!-- TODO: 請截取主選單畫面截圖 -->
+![title](./img/1.png)
 
 #### 2. 遊戲主畫面
 
-<!-- ![遊戲主畫面](./image/gameplay.png) -->
-<!-- TODO: 請截取遊戲進行中的畫面截圖，包含卡牌、HUD、時間條等 -->
+![game](./img/2.png)
 
 #### 3. 卡包購買
 
-<!-- ![卡包購買](./image/card_pack.png) -->
-<!-- TODO: 請截取購買卡包畫面截圖 -->
+![pack](./img/3.png)
 
 #### 4. 戰鬥畫面
 
-<!-- ![戰鬥畫面](./image/combat.png) -->
-<!-- TODO: 請截取戰鬥中的畫面截圖，包含戰鬥場地與浮動傷害數字 -->
+![battle](./img/4.png)
 
-#### 5. 月結算畫面
+#### 5. Game Over 畫面
 
-<!-- ![月結算畫面](./image/month_end.png) -->
-<!-- TODO: 請截取月結算時食物消耗的畫面截圖 -->
+![gameover](./img/5.png)
 
-#### 6. Game Over 畫面
+#### 6. 作弊選單
 
-<!-- ![Game Over 畫面](./image/game_over.png) -->
-<!-- TODO: 請截取 Game Over 畫面截圖 -->
-
-#### 7. 作弊選單
-
-<!-- ![作弊選單](./image/cheat_menu.png) -->
-<!-- TODO: 請截取 F1 作弊選單畫面截圖 -->
+![cheat](./img/6.png)
 
 ---
 
